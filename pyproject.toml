@@ -1,0 +1,7 @@
+[project]
+name = "ads-browser"
+version = "0.1.0"
+description = "Browser to remote ADS variables"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
